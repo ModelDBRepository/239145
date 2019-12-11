@@ -1,0 +1,47 @@
+{
+"L6ct_B1": {
+  "distribution": "PSTH",
+  "intervals": [],
+  "probabilities": [],
+},
+"L6ct_B2": {
+  "distribution": "PSTH",
+  "intervals": [(5.0,6.0)],
+  "probabilities": [0.0045],
+},
+"L6ct_B3": {
+  "distribution": "PSTH",
+  "intervals": [],
+  "probabilities": [],
+},
+"L6ct_C1": {
+  "distribution": "PSTH",
+  "intervals": [(21.0,22.0)],
+  "probabilities": [0.0045],
+},
+"L6ct_C2": {
+  "distribution": "PSTH",
+  "intervals": [(17.0,18.0),(20.0,21.0),(23.0,24.0)],
+  "probabilities": [0.0045,0.0091,0.0045],
+},
+"L6ct_C3": {
+  "distribution": "PSTH",
+  "intervals": [],
+  "probabilities": [],
+},
+"L6ct_D1": {
+  "distribution": "PSTH",
+  "intervals": [],
+  "probabilities": [],
+},
+"L6ct_D2": {
+  "distribution": "PSTH",
+  "intervals": [],
+  "probabilities": [],
+},
+"L6ct_D3": {
+  "distribution": "PSTH",
+  "intervals": [(17.0,18.0),(20.0,21.0),(21.0,22.0),(22.0,23.0)],
+  "probabilities": [0.0057,0.0114,0.0057,0.0114],
+},
+}
